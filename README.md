@@ -2,7 +2,7 @@
 
 This project analyses the value generation of 5 different assets that were part of a portfolio with different weights over the course of three years - from 2019 until 2021.
 
-It is not know how much money has been invested at the beginning into the portfolio. For this reason, any results here can be adapted for different starting points.
+How much money has been invested at the beginning into the portfolio is unknown. For this reason, any results here can be adapted for different starting points.
 
 ## The data
 
